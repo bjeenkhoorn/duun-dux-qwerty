@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>13.0.102.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>readme.htm</ReadMeFile>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Version URL=""></Version>
+    <Name URL="">Duun (Qwerty)</Name>
+    <Copyright URL="">© 2020 SIL International</Copyright>
+  </Info>
+  <Files>
+    <File>
+      <Name>welcome\welcome.htm</Name>
+      <Description>File welcome.htm</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description>File readme.htm</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>..\build\duun_qwerty.kvk</Name>
+      <Description>File duun_qwerty.kvk</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>..\build\duun_qwerty.kmx</Name>
+      <Description>Keyboard Clavier du Mali (Qwerty)</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>..\build\duun_qwerty.js</Name>
+      <Description>File duun_qwerty.js</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\shared\fonts\sil\charis_sil_mali\FONTLOG.txt</Name>
+      <Description>File FONTLOG.txt</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.txt</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\shared\fonts\sil\charis_sil_mali\OFL.txt</Name>
+      <Description>File OFL.txt</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.txt</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\shared\fonts\sil\charis_sil_mali\OFL-FAQ.txt</Name>
+      <Description>File OFL-FAQ.txt</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.txt</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\shared\fonts\sil\charis_sil_mali\CharisSILMali_README.txt</Name>
+      <Description>File CharisSILMali_README.txt</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.txt</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\shared\fonts\sil\charis_sil_mali\CharisSILMali-Bold.ttf</Name>
+      <Description>Font Charis SIL Mali Bold</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\shared\fonts\sil\charis_sil_mali\CharisSILMali-BoldItalic.ttf</Name>
+      <Description>Font Charis SIL Mali Bold Italic</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\shared\fonts\sil\charis_sil_mali\CharisSILMali-Italic.ttf</Name>
+      <Description>Font Charis SIL Mali Italic</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\shared\fonts\sil\charis_sil_mali\CharisSILMali-Regular.ttf</Name>
+      <Description>Font Charis SIL Mali</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+    <File>
+      <Name>welcome\mali_all.png</Name>
+      <Description>File mali_all.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>welcome\mali_shift.png</Name>
+      <Description>File mali_shift.png</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.png</FileType>
+    </File>
+    <File>
+      <Name>welcome\TableauTouchesQWertybw.pdf</Name>
+      <Description>File TableauTouchesQWertybw.pdf</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.pdf</FileType>
+    </File>
+    <File>
+      <Name>welcome\TableauTouchesQWertyCouleur.pdf</Name>
+      <Description>File TableauTouchesQWertyCouleur.pdf</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.pdf</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Clavier du Mali (Qwerty)</Name>
+      <ID>duun_qwerty</ID>
+      <Version>4.0</Version>
+      <OSKFont>..\..\..\shared\fonts\sil\charis_sil_mali\CharisSILMali-Regular.ttf</OSKFont>
+      <DisplayFont>..\..\..\shared\fonts\sil\charis_sil_mali\CharisSILMali-Regular.ttf</DisplayFont>
+      <Languages>
+        <Language ID="dux-Latn">Duungooma</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>

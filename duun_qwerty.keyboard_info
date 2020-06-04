@@ -1,0 +1,10 @@
+{
+    "license": "mit",
+    "languages": [
+         "dux-Latn"
+         ],
+    "description": "Clavier Duungooma du Mali QWERTY.",
+    "related": {
+      "maliqwerty": { "deprecates": true }
+    }
+}
